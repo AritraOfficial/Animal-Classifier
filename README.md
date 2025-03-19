@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/-🚀 Live%20Demo-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=00C853&color=000000" alt="Live Demo">
   </a>
 </p>
+
 ---
 
 A robust deep learning-based image classifier that accurately predicts animal species from images using **Transfer Learning** with **MobileNetV2**. This project includes a user-friendly web interface powered by **Gradio**, allowing seamless interaction for users.  
