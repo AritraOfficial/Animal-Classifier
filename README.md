@@ -138,7 +138,13 @@ This project is deployed on **Hugging Face Spaces** for easy access.
 
 ---
 
-## 🤝 Contribution Guidelines  
+ 
+
+## ✒️ Author 
+[``` Aritra Mukherjee ```](https://github.com/AritraOfficial)
+
+---
+## 🤝 Contribution Guidelines 
 Contributions are welcome! If you'd like to improve the project:  
 1. Fork the repository.  
 2. Create a feature branch (`git checkout -b feature-name`).  
@@ -158,10 +164,31 @@ Special thanks to the creators of **TensorFlow**, **Gradio**, and **Hugging Face
 
 ---
 
-## 📧 Contact  
+## 📧 Contact 
 For queries or collaborations, feel free to connect:  
-📩 **Email:** aritra.work.official@gmail.com
-🌐 **GitHub:** [Your Profile](https://github.com/AritraOfficial)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aritramukherjeeofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/AritraMofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/aritramukherjee_official/?__pwa=1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://leetcode.com/u/aritram_official/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://github.com/AritraOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:aritra.work.official@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
