@@ -102,7 +102,7 @@ The application will run on **`http://localhost:7860`** or a provided Gradio lin
 ---
 
 ## 📊 Results and Evaluation  
-- Achieved **~85% accuracy** after 20 epochs.  
+- Achieved **~94% accuracy** after 15 epochs.  
 - Utilized **EarlyStopping** and **Learning Rate Scheduling** to improve convergence.  
 - Applied **Data Augmentation** to improve model generalization.  
 
