@@ -42,6 +42,8 @@ The dataset contains **15 classes** of animals, with images resized to **224x224
 🐻 Bear | 🐦 Bird | 🐱 Cat | 🐄 Cow | 🦌 Deer | 🐶 Dog | 🐬 Dolphin | 🐘 Elephant  
 🦒 Giraffe | 🐎 Horse | 🦘 Kangaroo | 🦁 Lion | 🐼 Panda | 🐯 Tiger | 🦓 Zebra  
 
+``` Unzip the 'dataset' after downloading it on your local machine.  ```
+
 ---
 
 ## 🏗️ Tech Stack  
