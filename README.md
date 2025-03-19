@@ -125,6 +125,7 @@ This project is deployed on **Hugging Face Spaces** for easy access.
     <img src="https://img.shields.io/badge/🚀 Live%20Demo-%2300C853?style=for-the-badge&logo=firefox&logoColor=white" alt="🔗Live Demo">
   </a>
 </p>
+
 ---
 
 ## 🛠️ Future Improvements  
